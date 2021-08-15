@@ -1,4 +1,5 @@
 # primeiro
 Meu primeiro repositório
-Realizando meu primeiro commit
+Realizando o primeiro commit
+Realizando o segundo commit
  
